@@ -6,3 +6,4 @@
 
 ## TBU
 - Financial data crawling and analysis using pandas... 
+- eth.events를 활용한 Ethereum on-chain big data query (Onther-tech)
